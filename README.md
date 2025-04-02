@@ -7,3 +7,5 @@ SolCraft is a cryptocurrency built on the Solana blockchain, designed specifical
 * $SolCraft is minted via on-chain smart contracts on Solana.
 * $SolCraft blocks is as rare as coal (easy to find)
 * Tokens can be stored, traded, or used to buy in-game assets, perks, or access exclusive areas.
+
+![Image](https://github.com/user-attachments/assets/9e03e045-7354-42ca-bc7d-210b526042d9)
